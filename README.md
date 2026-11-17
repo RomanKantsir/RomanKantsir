@@ -6,7 +6,7 @@
 
 Slovakia · remote, clients worldwide
 
-[Website](https://kantsir-roman.dev) · [LinkedIn](https://www.linkedin.com/in/roman-kantsir-rk/) · [Email](mailto:kantsirroman0313@gmail.com)
+[Website](https://kantsir-roman.dev) · [LinkedIn](https://www.linkedin.com/in/roman-kantsir-rk/)
 
 <br>
 
@@ -20,7 +20,7 @@ Slovakia · remote, clients worldwide
 
 ### 👋 About
 
-I build web apps, e-commerce and internal tools, in code with React and Next.js or in no-code with Bubble and n8n. Building for clients since 2021: **20+ projects shipped, 15+ clients**. Most of that work lives in private repositories under NDA.
+I build web apps, e-commerce and internal tools, in code with React and Next.js or in no-code with Bubble and n8n. Building for clients since 2021: **20+ projects shipped, 15+ clients**. Most of my client work is under NDA.
 
 ### 🛠 What I've built
 
@@ -38,7 +38,6 @@ AI report pipeline, an advisor chat that answers from the company's own data, do
 - Scope and an estimate in hours, in writing, before work starts
 - A live preview link and regular updates
 - You own the repository, accounts and docs
-- I use AI every day, and I still read, test and answer for every line
 
 <br>
 
